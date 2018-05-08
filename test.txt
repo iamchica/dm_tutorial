@@ -8,3 +8,8 @@ y = Ak^a
 
 Y/L = A(K/L)^a
 
+
+stash again2
+
+stash again
+
