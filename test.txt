@@ -3,3 +3,8 @@ In this section, I will write an economic model.
 
 In this section, I will add literature review.
 
+
+y = Ak^a
+
+Y/L = A(K/L)^a
+
